@@ -93,6 +93,9 @@
 
 给一个角色模型，72 小时出适配数据。或单纯聊一聊也行。
 
+**Email**：2182212637@qq.com  
+**GitHub**：https://github.com/fringe-karma/AntiVision-SDK
+
 ---
 
 *AntiVision — 让 AI 视觉外挂在这款游戏里用不了。*
