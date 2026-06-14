@@ -83,7 +83,7 @@
 
 ## 联系方式
 
-- 项目负责人：韩
+- 项目负责人：fringekarma
 - Email：2182212637@qq.com
 - GitHub：https://github.com/fringe-karma/AntiVision-SDK
 - 项目文档：见附件（可在 Obsidian 中打开完整项目库）
