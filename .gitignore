@@ -1,0 +1,14 @@
+models/*.pt
+models/*.pth
+quantum_soldier/
+quantum_renders/
+__pycache__/
+*.pyc
+*.log
+*.json
+*.tar.gz
+*.mp4
+*.jpg
+*.png
+demo_final/
+delta_demo/
