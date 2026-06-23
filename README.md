@@ -73,6 +73,7 @@
 - [对抗性审计（红队视角）](docs/ADVERSARIAL_AUDIT.md)
 - [商业计划](docs/BUSINESS_PLAN.md)
 - [一句话讲清楚](docs/ONE_PAGER.md)
+- [项目日志](docs/JOURNAL.md)
 - [学习路线图](docs/LEARNING_ROADMAP.md)
 
 ---
